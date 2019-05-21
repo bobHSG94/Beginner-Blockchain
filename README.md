@@ -1,7 +1,7 @@
 # Beginner-Blockchain in Pyhthon with CLI
 ⬛️🔗⬛️🔗
 Start with terminal on the directory where the file is downloaded and type: 
-> blockchain.py
+> python blockchain.py
 
 Alternatively open the file in your favorite IDE and run it.
 
